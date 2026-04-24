@@ -1,0 +1,11 @@
+{
+  "name": "vuln-scan-test",
+  "version": "1.0.0",
+  "description": "Intentionally vulnerable deps for Dependabot alerts",
+  "dependencies": {
+    "lodash": "4.17.19",
+    "minimist": "1.2.0",
+    "axios": "0.19.0",
+    "express": "4.16.0"
+  }
+}
